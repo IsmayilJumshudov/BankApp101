@@ -1,0 +1,1 @@
+In addition to my previous applications, I have also implemented object-oriented programming (OOP) concepts in a simple bank application. This application allows users to perform basic deposit and withdrawal operations.
